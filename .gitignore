@@ -1,4 +1,7 @@
 # Ignored files
 
+#OS X
+.DS_Store
+
 #WebStorm
 .idea/workspace.xml
