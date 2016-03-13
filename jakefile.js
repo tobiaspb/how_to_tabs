@@ -2,10 +2,9 @@
 (function() {
     "use strict";
     
-    console.log("\n\nBUILD OK");
-    
+    desc("Default build");
     task("default", function() {
-        console.log("Hello, I'm the default task");
+        console.log("\n\nBUILD OK");
     });
     
 }());
